@@ -1,16 +1,16 @@
 {
-  'productos' : [
-  {
-    'id' : 1,
-    'nombre_producto' : 'Batido'
+  "productos" : [
+    {
+    "id" : 1,
+    "nombre_producto" : "Batido"
     },
     {
-      'id' : 2,
-      'nombre_producto' : 'Aloe'
+      "id" : 2,
+      "nombre_producto" : "Aloe"
     },
     {
-      'id' : 3,
-      'nombre_producto' : 'Te'
+      "id" : 3,
+      "nombre_producto" : "Te"
     }
   ]
 }
