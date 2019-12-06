@@ -1,7 +1,7 @@
 {
   "productos": [
-    { "id": 1, "nombre": "Batido" },
-    { "id": 2, "nombre": "Aloe" },
-    { "id": 3, "nombre": "Te" }
+    { "id": 1, "nombre": "Batido", "puntos": "24.65", "mayorista":"23.83" },
+    { "id": 2, "nombre": "Aloe" "puntos": "25.7", "mayorista":"26.97"},
+    { "id": 3, "nombre": "Te" "puntos": "36.0", "mayorista":"33.31"}
   ]
 }
